@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="225px" height="300px" viewBox="0 0 225 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>anauthor</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="anauthor" fill="#888888" fill-rule="nonzero">
-            <path d="M217.5,80.5 C203,33.5 164,1 113,0 C49.5,0 0,49.5 0,111 C0,172 50,221.5 111,221.5 C134.5,221.5 119.5,263 99.5,300 L132,300 C165.5,270.5 248,180.5 217.5,80.5 Z" id="Path"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 300">
+	<path fill="#888888" d="M108.75,40.25 C101.5,16.75 82,0.5 56.5,0 C24.75,0 0,24.75 0,55.5 C0,86 25,110.75 55.5,110.75 C67.25,110.75 59.75,131.5 49.75,150 L66,150 C82.75,135.25 124,90.25 108.75,40.25 Z"></path>
 </svg>
